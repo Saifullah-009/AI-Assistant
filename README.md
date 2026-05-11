@@ -1,4 +1,4 @@
-# 🤖 AI Assistant Pro
+# 🤖 AI Assistant 
 
 A sleek, feature-rich AI chat application built with FastAPI and LangChain — supporting multiple personalities, real-time streaming, and PDF document Q&A.
 
@@ -9,7 +9,7 @@ A sleek, feature-rich AI chat application built with FastAPI and LangChain — s
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 - 💬 **Real-time streaming** — Responses stream token by token instantly
 - 🎭 **4 AI Personalities** — Professional, Friendly, Teacher, Motivator
@@ -21,7 +21,7 @@ A sleek, feature-rich AI chat application built with FastAPI and LangChain — s
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -33,27 +33,27 @@ A sleek, feature-rich AI chat application built with FastAPI and LangChain — s
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
-### 1. Clone the repository
+# 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/ai-assistant-pro.git
 cd ai-assistant-pro
 ```
 
-### 2. Install dependencies
+# 2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Set up environment variables
+# 3. Set up environment variables
 Create a `.env` file in the root directory:
 ```env
 GROQ_API_KEY=your_groq_api_key_here
 ```
 Get your free API key at [console.groq.com](https://console.groq.com)
 
-### 4. Run the app
+# 4. Run the app
 ```bash
 uvicorn main:app --reload
 ```
@@ -62,7 +62,7 @@ Open your browser at `http://localhost:8000`
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```
 ai-assistant-pro/
@@ -76,7 +76,7 @@ ai-assistant-pro/
 
 ---
 
-## 📸 Preview
+# 📸 Preview
 
 ### 💬 Chat Mode
 ![Chat Mode](screenshots/chat.webp)
@@ -86,6 +86,6 @@ ai-assistant-pro/
 
 ---
 
-## 📝 License
+# 📝 License
 
 MIT License — free to use and modify.
